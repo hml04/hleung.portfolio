@@ -1,6 +1,6 @@
 <h2 style="color:#4682B4;"> UBC Sailbot - Electrical Team </h2>
 
-Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 - Present)
+## Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 - Present)
 #### Navigation - IMU Sensor Development
 - description
 - description
