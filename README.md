@@ -50,7 +50,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - description
 - description
 
-<img src="assets/IGEN230_Capstone/ITO_watertest.png" width="240"><img src="assets/IGEN230_Capstone/thermocam_watertest.png" width="225">
+<img src="assets/IGEN230_Capstone/ITO_watertest.png" width="242"><img src="assets/IGEN230_Capstone/thermocam_watertest.png" width="225">
 <br/>
 <br/>
  
