@@ -18,9 +18,9 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
   - Sized and oriented carbon fibre sheets
   - Prepared and applied structural and non-structural epoxy
 
-<img src="assets/carbon_fibre_layup.jpg" width="450"> 
+<img src="assets/carbon_fibre_layup.jpg" width="250"> 
 
-<video width="210" controls>
+<video width="250" controls>
   <source src="assets/carbon_fibre_timelapse.mp4" type="video/mp4">
 </video>
 
@@ -50,11 +50,12 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
   - PWM for speed control &rarr; phototransistor is on when it sees white (detects more light)
   - Developed personal code to complete tracks including turns up to 360 degrees, comprehension of intersections and missing lines
     
-<img src="assets/linefollowingrobot-circuitry.png" width="220"> 
-<img src="assets/linefollowingrobot-blkdiagram.png" width="220">
+<img src="assets/linefollowingrobot-circuitry.png" width="230"> 
 
 
 [Arduino Code](/assets/code_track34.txt)
+<img src="assets/linefollowingrobot-blkdiagram.png" width="220">
+
 
 <br/>
 <br/>
@@ -69,9 +70,9 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - Led standardized testing to determine the best material to be used for the heating element of the goggles
 <img src="assets/ITO_reference_diagram.png" width="450">
 
-<img src="assets/ITO_testing_alligatorclips.png" width="100"><img src="assets/ITO_testing_coppertape.png" width="100"><img src="assets/ITO_testing_solder.png" width="100">
+<img src="assets/ITO_testing_alligatorclips.png" width="190"><img src="assets/ITO_testing_coppertape.png" width="190"><img src="assets/ITO_testing_solder.png" width="190">
 
-<img src="assets/thermocam_coldenv.png" width="200"><img src="assets/thermocam_warmenv.png" width="200">
+<img src="assets/thermocam_coldenv.png" width="250"><img src="assets/thermocam_warmenv.png" width="250">
 
 #### Waterproof Material Testing
 - Tested ______
