@@ -67,9 +67,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
     
 <img src="assets/IGEN230_LineFollowingRobot/linefollowingrobot-circuitry.png" width="230"> 
 
-<div style="max-height: 400px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-    <iframe src="/assets/IGEN230_LineFollowingRobot/code_track34.txt" style="width: 100%; height: 100%; border: none;"></iframe>
-</div>
+<div style="max-height: 400px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;"><iframe src="/assets/IGEN230_LineFollowingRobot/code_track34.txt" style="width: 100%; height: 100%; border: none;"></iframe></div>
 
 
 </div>
