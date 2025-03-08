@@ -26,11 +26,20 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - Designing an AI Mirror which recommends the user an outfit based on weather and occasion
 
 #### Camera Attachment
-- Designed and modelled the parts and assembly for the attachment to mount the camera to the mirror
+- Designed and modelled the parts and assembly for the attachment to the camera
 - Made to be user friendly, with a sliding cover for privacy
 
-<img src="assets/IGEN330_Capstone/AI_mirror_cameraattachment.png" width="220">
+<img src="assets/IGEN330_Capstone/cameracover_assembly.png" width="200">
+<img src="assets/IGEN330_Capstone/cameracover_base.png" width="250"><img src="assets/IGEN330_Capstone/cameracover_slider.png" width="250">
 
+#### Mirror Frame
+- Designed and modelled the parts and assembly for the mirror frame
+- Suited for woodworking; composed of four layers (front panel, middle panel, supports, back panel) + stand
+- Front and middle panel provide an extruded edge for the mirror to sit on top
+- Stand designed for internal wiring and allocated storage 
+
+<img src="assets/IGEN330_Capstone/mirrorframe_assembly.png" width="220">
+<img src="assets/IGEN330_Capstone/mirrorframe_inlay.png" width="220"><img src="assets/IGEN330_Capstone/mirrorframe_stand.png" width="220"> 
 
 <h2 style="color:#4682B4;"> IGEN 230 Capstone Project </h2>
 
