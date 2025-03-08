@@ -67,7 +67,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
     
 <img src="assets/IGEN230_LineFollowingRobot/linefollowingrobot-circuitry.png" width="230"> 
 
-<div style="max-height: 200px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+<div style="max-height: 500px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
     /* Analog input, analog output, serial output
 
 
