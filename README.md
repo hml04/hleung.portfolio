@@ -3,8 +3,9 @@
 Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 - Present)
 #### Navigation - IMU Sensor Development
 - programmed and tested code through I2C peripheral using an oscilloscope, Arduino Uno Rev3 and STM32 U575
-- programmed code for proper calibration and exception handling (in progress)
+- programmed code for proper calibration and exception handling 
 - developed and executed testing procedures for IMU limitations in simulated environments
+- in-progress project
 
 <img src="assets/UBCSailbot_IMU/imu_arduino+stm_comparison.png" width="450">
 <img src="assets/UBCSailbot_IMU/imu_stm32_connection.png" width="210"> <video width="225" controls>  <source src="assets/UBCSailbot_IMU/imu_eulerdata_printing.mp4" type="video/mp4"> </video>
@@ -24,6 +25,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 
 #### Project Description
 - Designing an AI Mirror which recommends the user an outfit based on weather and occasion
+- in-progress project
 
 #### Camera Attachment
 - Designed and modelled the parts and assembly for the attachment to the camera
