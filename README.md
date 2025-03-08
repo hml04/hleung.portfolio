@@ -30,7 +30,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - Made to be user friendly, with a sliding cover for privacy
 
 <img src="assets/IGEN330_Capstone/cameracover_assembly.png" width="500">
-<img src="assets/IGEN330_Capstone/cameracover_base.png" width="250"><img src="assets/IGEN330_Capstone/cameracover_slider.png" width="250">
+<img src="assets/IGEN330_Capstone/cameracover_base.png" width="250"><img src="assets/IGEN330_Capstone/cameracover_slider.png" width="210">
 
 #### Mirror Frame
 - Designed and modelled the parts and assembly for the mirror frame
@@ -39,7 +39,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - Stand designed for internal wiring and allocated storage 
 
 <img src="assets/IGEN330_Capstone/mirrorframe_assembly.png" width="220">      
-<img src="assets/IGEN330_Capstone/mirrorframe_inlay.png" width="220"><img src="assets/IGEN330_Capstone/mirrorframe_stand.png" width="220"> 
+<img src="assets/IGEN330_Capstone/mirrorframe_inlay.png" width="240"><img src="assets/IGEN330_Capstone/mirrorframe_stand.png" width="200"> 
 
 <h2 style="color:#4682B4;"> IGEN 230 Capstone Project </h2>
 
