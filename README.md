@@ -32,8 +32,30 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - Made to be user friendly, with a sliding cover for privacy
 
 <img src="assets/AI_mirror_cameraattachment.png" width="220">
+
+
+<h2 style="color:#4682B4;"> IGEN 230 Capstone Project </h2>
+
+#### Project Description
+- Designed self heating and waterproof ski goggles using ITO, polycarbonate, and 3D printed resin
+  
+#### Heat Element Testing
+- Designed 3D CAD models for testing
+- Led standardized testing to determine the best material to be used for the heating element of the goggles
+<img src="assets/ITO_reference_diagram.png" width="450">
+
+<img src="assets/ITO_testing_alligatorclips.png" width="173"><img src="assets/ITO_testing_coppertape.png" width="189"><img src="assets/ITO_testing_solder.png" width="188">
+
+<img src="assets/thermocam_coldenv.png" width="250"><img src="assets/thermocam_warmenv.png" width="250">
+
+#### Waterproof Material Testing
+- description
+- description
+
+<img src="assets/ITO_watertest.png" width="230"> <img src="assets/thermocam_watertest.png" width="220">
+
  
-<h2 style="color:#4682B4;"> IGEN 230 Line Following Robot - Individual Project </h2>
+<h2 style="color:#4682B4;"> IGEN 230 Line Following Robot Project </h2>
 
 #### Circuitry
 - Designed and constructed the mehcanical structure necessary for a line-following robot
@@ -55,22 +77,3 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 <br/>
 <br/>
 
-<h2 style="color:#4682B4;"> IGEN 230 Capstone Project </h2>
-
-#### Project Description
-- Designed self heating and waterproof ski goggles using ITO, polycarbonate, and 3D printed resin
-  
-#### Heat Element Testing
-- Designed 3D CAD models for testing
-- Led standardized testing to determine the best material to be used for the heating element of the goggles
-<img src="assets/ITO_reference_diagram.png" width="450">
-
-<img src="assets/ITO_testing_alligatorclips.png" width="175"><img src="assets/ITO_testing_coppertape.png" width="191"><img src="assets/ITO_testing_solder.png" width="190">
-
-<img src="assets/thermocam_coldenv.png" width="250"><img src="assets/thermocam_warmenv.png" width="250">
-
-#### Waterproof Material Testing
-- description
-- description
-
-<img src="assets/ITO_watertest.png" width="230"> <img src="assets/thermocam_watertest.png" width="220">
