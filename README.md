@@ -52,7 +52,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - description
 - description
 
-<img src="assets/IGEN230_Capstone/ITO_watertest.png" width="237"><img src="assets/IGEN230_Capstone/thermocam_watertest.png" width="225">
+<img src="assets/IGEN230_Capstone/ITO_watertest.png" width="240"><img src="assets/IGEN230_Capstone/thermocam_watertest.png" width="225">
 
  
 <h2 style="color:#4682B4;"> IGEN 230 Line Following Robot Project </h2>
