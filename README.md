@@ -5,7 +5,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - ________________________
 - ________________________
   
-<img src="https://github.com/hml04/hleung.portfolio/blob/main/assets/imu_stm32_connection.png" width="300"> 
+<img src="/assets/imu_stm32_connection.png" width="300"> 
 <img src="/assets/imu_arduino+stm_comparison.png" width="300">
 
 <video width="450" controls>
