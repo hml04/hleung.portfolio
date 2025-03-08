@@ -72,7 +72,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 
 </div>
 
-[Arduino Code](/assets/code_track34.txt)
+[Arduino Code](/assets/IGEN230_LineFollowingRobot/code_track34.txt)
 
 <img src="assets/IGEN230_LineFollowingRobot/linefollowingrobot-blkdiagram.png" width="250">
 
