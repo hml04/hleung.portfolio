@@ -63,8 +63,10 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
   - H-Bridge for direction control &rarr; running motors forwards and backwards
   - PWM for speed control &rarr; phototransistor is on when it sees white (detects more light)
   - Developed personal code to complete tracks including turns up to 360 degrees, comprehension of intersections and missing lines
+
     
 <img src="assets/IGEN230_LineFollowingRobot/linefollowingrobot-circuitry.png" width="230"> 
+<video width="225" controls>  <source src="assets/IGEN230_LineFollowingRobot/track1.mp4" type="video/mp4"> </video> 
 <video width="225" controls>  <source src="assets/IGEN230_LineFollowingRobot/track2_forwards.mp4" type="video/mp4"> </video> <video width="225" controls>  <source src="assets/IGEN230_LineFollowingRobot/track2_backwards.mp4" type="video/mp4"> </video>
 <br/>
 
