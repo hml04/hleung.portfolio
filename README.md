@@ -8,7 +8,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
  <img src="assets/imu_arduino+stm_comparison.png" width="400">
 
 <img src="assets/imu_stm32_connection.png" width="210"><video width="450" controls>
-  <source src="assets/imu_eulerdata_printing.mp4" type="video/mp4">
+  <source src="assets/imu_eulerdata_printing_updated.mp4" type="video/mp4">
 </video>
 
 #### Manufacturing Polaris (Our New Sailboat!)
