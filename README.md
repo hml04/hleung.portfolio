@@ -29,8 +29,8 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - Designed and modelled the parts and assembly for the attachment to the camera
 - Made to be user friendly, with a sliding cover for privacy
 
-<img src="assets/IGEN330_Capstone/cameracover_assembly.png" width="500">
-<img src="assets/IGEN330_Capstone/cameracover_base.png" width="250"><img src="assets/IGEN330_Capstone/cameracover_slider.png" width="210">
+<img src="assets/IGEN330_Capstone/cameracover_assembly.png" width="300">           
+<img src="assets/IGEN330_Capstone/cameracover_base.png" width="200"><img src="assets/IGEN330_Capstone/cameracover_slider.png" width="130">
 
 #### Mirror Frame
 - Designed and modelled the parts and assembly for the mirror frame
@@ -39,7 +39,10 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - Stand designed for internal wiring and allocated storage 
 
 <img src="assets/IGEN330_Capstone/mirrorframe_assembly.png" width="220">      
-<img src="assets/IGEN330_Capstone/mirrorframe_inlay.png" width="240"><img src="assets/IGEN330_Capstone/mirrorframe_stand.png" width="200"> 
+<img src="assets/IGEN330_Capstone/mirrorframe_inlay.png" width="240"><img src="assets/IGEN330_Capstone/mirrorframe_stand.png" width="180"> 
+
+<br/>
+<br/>
 
 <h2 style="color:#4682B4;"> IGEN 230 Capstone Project </h2>
 
@@ -47,17 +50,21 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - Designed self heating and waterproof ski goggles using ITO, polycarbonate, and 3D printed resin
   
 #### Heat Element Testing
-- Designed 3D CAD models for testing
-- Led standardized testing to determine the best material to be used for the heating element of the goggles
-<img src="assets/IGEN230_Capstone/ITO_reference_diagram.png" width="450">
+- Developed testing method 
+- Led standardized testing to determine the best ratio of material to be used for the heating element of the goggles
 
+<img src="assets/IGEN230_Capstone/ITO_reference_diagram.png" width="450">         
 <img src="assets/IGEN230_Capstone/ITO_testing_alligatorclips.png" width="151"><img src="assets/IGEN230_Capstone/ITO_testing_coppertape.png" width="166"><img src="assets/IGEN230_Capstone/ITO_testing_solder.png" width="176">
+
+#### Environment Temperature Testing
+- Developed testing method 
+- Led standardized testing to determine the effect of starting temperature on the heating element of the goggles
 
 <img src="assets/IGEN230_Capstone/thermocam_coldenv.png" width="245"><img src="assets/IGEN230_Capstone/thermocam_warmenv.png" width="244">
 
 #### Waterproof Material Testing
-- description
-- description
+- Developed testing method 
+- Led standardized testing to determine the effect of water on the heating element of the goggles
 
 <img src="assets/IGEN230_Capstone/ITO_watertest.png" width="242"><img src="assets/IGEN230_Capstone/thermocam_watertest.png" width="225">
 <br/>
@@ -73,18 +80,13 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
   - PWM for speed control &rarr; phototransistor is on when it sees white (detects more light)
   - Developed personal code to complete tracks including turns up to 360 degrees, comprehension of intersections and missing lines
 
-    
 <img src="assets/IGEN230_LineFollowingRobot/linefollowingrobot-circuitry.png" width="230"> 
-<video width="550" controls>  <source src="assets/IGEN230_LineFollowingRobot/track1.mp4" type="video/mp4"> </video> 
-
-
-<video width="225" controls>  <source src="assets/IGEN230_LineFollowingRobot/track2_forwards.mp4" type="video/mp4"> </video> <video width="225" controls>  <source src="assets/IGEN230_LineFollowingRobot/track2_backwards.mp4" type="video/mp4"> </video>
-<br/>
+<video width="550" controls>  <source src="assets/IGEN230_LineFollowingRobot/track1.mp4" type="video/mp4"> </video>                      
+<video width="225" controls>  <source src="assets/IGEN230_LineFollowingRobot/track2_forwards.mp4" type="video/mp4"> </video> <video width="225" controls>  <source src="assets/IGEN230_LineFollowingRobot/track2_backwards.mp4" type="video/mp4"> </video>                    
 
 [Arduino Code - Click Here!](/assets/IGEN230_LineFollowingRobot/code_track34.txt)
 
 <img src="assets/IGEN230_LineFollowingRobot/linefollowingrobot-blkdiagram.png" width="350">
-
 
 <br/>
 <br/>
