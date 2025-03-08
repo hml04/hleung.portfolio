@@ -18,7 +18,11 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
   - Sized and oriented carbon fibre sheets
   - Prepared and applied structural and non-structural epoxy
 
-<img src="assets/carbon_fibre_layup.jpg" width="450"> <img src="assets/carbon_fibre_timelapse.mp4" width="450">
+<img src="assets/carbon_fibre_layup.jpg" width="450"> 
+
+<video width="210" controls>
+  <source src="assets/carbon_fibre_timelapse.mp4" type="video/mp4">
+</video>
 
 
 <br/>
@@ -34,7 +38,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - Designed and modelled the parts and assembly for the attachment to mount the camera to the mirror
 - Made to be user friendly, with a sliding cover for privacy
 
-<img src="assets/AI_mirror_cameraattachment.png" width="400">
+<img src="assets/AI_mirror_cameraattachment.png" width="220">
  
 <h2 style="color:#4682B4;"> IGEN 230 Line Following Robot - Individual Project </h2>
 
@@ -46,8 +50,9 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
   - PWM for speed control &rarr; phototransistor is on when it sees white (detects more light)
   - Developed personal code to complete tracks including turns up to 360 degrees, comprehension of intersections and missing lines
     
-<img src="assets/linefollowingrobot-circuitry.png" width="400"> 
-<img src="assets/linefollowingrobot-blkdiagram.png" width="600">
+<img src="assets/linefollowingrobot-circuitry.png" width="220"> 
+<img src="assets/linefollowingrobot-blkdiagram.png" width="220">
+
 
 [Arduino Code](/assets/code_track34.txt)
 
@@ -62,7 +67,14 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 #### Heat Element Testing
 - Designed 3D CAD models for testing
 - Led standardized testing to determine the best material to be used for the heating element of the goggles
-<img src="____" width="450"> <img src="____" width="450">
+<img src="assets/ITO_reference_diagram.png" width="450">
+
+<img src="assets/ITO_testing_alligatorclips.png" width="100"><img src="assets/ITO_testing_coppertape.png" width="100"><img src="assets/ITO_testing_solder.png" width="100">
+
+<img src="assets/thermocam_coldenv.png" width="200"><img src="assets/thermocam_warmenv.png" width="200">
+
 #### Waterproof Material Testing
 - Tested ______
 - tfiafoiaf
+
+<img src="assets/ITO_watertest.png" width="220"><img src="assets/thermocam_watertest.png" width="220">
