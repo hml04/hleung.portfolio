@@ -18,11 +18,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
   - Sized and oriented carbon fibre sheets
   - Prepared and applied structural and non-structural epoxy
 
-<img src="assets/carbon_fibre_layup.jpg" width="250"> 
-
-<video width="250" controls>
-  <source src="assets/carbon_fibre_timelapse.mp4" type="video/mp4">
-</video>
+<img src="assets/carbon_fibre_layup.jpg" width="250"> <video width="250" controls> <source src="assets/carbon_fibre_timelapse.mp4" type="video/mp4"> </video>
 
 
 <br/>
