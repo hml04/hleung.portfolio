@@ -44,15 +44,15 @@
 - Led standardized testing to determine the best material to be used for the heating element of the goggles
 <img src="assets/IGEN230_Capstone/ITO_reference_diagram.png" width="450">
 
-<img src="assets/IGEN230_Capstone/ITO_testing_alligatorclips.png" width="150"><img src="assets/IGEN230_Capstone/ITO_testing_coppertape.png" width="166"><img src="assets/IGEN230_Capstone/ITO_testing_solder.png" width="174">
+<img src="assets/IGEN230_Capstone/ITO_testing_alligatorclips.png" width="151"><img src="assets/IGEN230_Capstone/ITO_testing_coppertape.png" width="166"><img src="assets/IGEN230_Capstone/ITO_testing_solder.png" width="176">
 
-<img src="assets/IGEN230_Capstone/thermocam_coldenv.png" width="250"><img src="assets/IGEN230_Capstone/thermocam_warmenv.png" width="250">
+<img src="assets/IGEN230_Capstone/thermocam_coldenv.png" width="251"><img src="assets/IGEN230_Capstone/thermocam_warmenv.png" width="250">
 
 #### Waterproof Material Testing
 - description
 - description
 
-<img src="assets/IGEN230_Capstone/ITO_watertest.png" width="230"> <img src="assets/IGEN230_Capstone/thermocam_watertest.png" width="220">
+<img src="assets/IGEN230_Capstone/ITO_watertest.png" width="237"><img src="assets/IGEN230_Capstone/thermocam_watertest.png" width="225">
 
  
 <h2 style="color:#4682B4;"> IGEN 230 Line Following Robot Project </h2>
@@ -68,7 +68,6 @@
 <img src="assets/IGEN230_LineFollowingRobot/linefollowingrobot-circuitry.png" width="230"> 
 <video width="225" controls>  <source src="assets/IGEN230_LineFollowingRobot/track2_forwards.mp4" type="video/mp4"> </video> <video width="225" controls>  <source src="assets/IGEN230_LineFollowingRobot/track2_backwards.mp4" type="video/mp4"> </video>
 <br/>
-
 
 [Arduino Code - Click Here!](/assets/IGEN230_LineFollowingRobot/code_track34.txt)
 
