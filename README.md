@@ -44,7 +44,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - Led standardized testing to determine the best material to be used for the heating element of the goggles
 <img src="assets/IGEN230_Capstone/ITO_reference_diagram.png" width="450">
 
-<img src="assets/IGEN230_Capstone/ITO_testing_alligatorclips.png" width="150"><img src="assets/IGEN230_Capstone/ITO_testing_coppertape.png" width="160"><img src="assets/IGEN230_Capstone/ITO_testing_solder.png" width="165">
+<img src="assets/IGEN230_Capstone/ITO_testing_alligatorclips.png" width="150"><img src="assets/IGEN230_Capstone/ITO_testing_coppertape.png" width="167"><img src="assets/IGEN230_Capstone/ITO_testing_solder.png" width="170">
 
 <img src="assets/IGEN230_Capstone/thermocam_coldenv.png" width="250"><img src="assets/IGEN230_Capstone/thermocam_warmenv.png" width="250">
 
