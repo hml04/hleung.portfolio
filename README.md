@@ -18,7 +18,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
   - Sized and oriented carbon fibre sheets
   - Prepared and applied structural and non-structural epoxy
 
-<img src="____" width="450"> <img src="____" width="450">
+<img src="/assets/carbon_fibre_layup.jpg" width="450"> <img src="/assets/carbon_fibre_timelapse.mp4" width="450">
 
 
 <br/>
@@ -34,7 +34,9 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - Designed 3D CAD models for testing
 - Led standardized testing to determine the best material to be used for the heating element of the goggles
 <img src="____" width="450"> <img src="____" width="450">
-
+#### Waterproof Material Testing
+- Tested ______
+- tfiafoiaf
 
 <h2 style="color:#4682B4;"> IGEN 330 Capstone Project </h2>
 
