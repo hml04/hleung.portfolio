@@ -5,9 +5,9 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - description
 - description
   
-<img src="assets/imu_stm32_connection.png" width="210"> <img src="assets/imu_arduino+stm_comparison.png" width="340">
+ <img src="assets/imu_arduino+stm_comparison.png" width="400">
 
-<video width="450" controls>
+<img src="assets/imu_stm32_connection.png" width="210"><video width="450" controls>
   <source src="assets/imu_eulerdata_printing.mp4" type="video/mp4">
 </video>
 
