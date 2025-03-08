@@ -66,6 +66,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
   - Developed personal code to complete tracks including turns up to 360 degrees, comprehension of intersections and missing lines
     
 <img src="assets/IGEN230_LineFollowingRobot/linefollowingrobot-circuitry.png" width="230"> 
+<video width="225" controls>  <source src="assets/IGEN230_LineFollowingRobot/track2_forwards.mp4" type="video/mp4"> </video> <video width="225" controls>  <source src="assets/IGEN230_LineFollowingRobot/track2_backwards.mp4" type="video/mp4"> </video>
 
 [Arduino Code](/assets/IGEN230_LineFollowingRobot/code_track34.txt)
 
