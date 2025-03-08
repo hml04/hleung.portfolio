@@ -5,8 +5,8 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - ________________________
 - ________________________
   
-<img src="/assets/imu_stm32_connection.png" width="300"> <img src="imu_arduino+stm_comparison.png" width="300">
-<img src="imu_eulerdata_printing.mp4" width="450"> 
+<img src="/assets/imu_stm32_connection.png" width="300"> <img src="/assets/imu_arduino+stm_comparison.png" width="300">
+<img src="/assets/imu_eulerdata_printing.mp4" width="450"> 
 
 #### Manufacturing Polaris (Our New Sailboat!)
 - While I am on the Electrical team, there are many opportunities to integrate with other teams and work on other project elements such as manufacturing
