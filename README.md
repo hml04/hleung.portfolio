@@ -59,6 +59,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 
 #### Project Description
 - Designed self heating and waterproof ski goggles using ITO, polycarbonate, and 3D printed resin
+  
 #### Heat Element Testing
 - Designed 3D CAD models for testing
 - Led standardized testing to determine the best material to be used for the heating element of the goggles
@@ -69,7 +70,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 <img src="assets/thermocam_coldenv.png" width="250"><img src="assets/thermocam_warmenv.png" width="250">
 
 #### Waterproof Material Testing
-- Tested ______
-- tfiafoiaf
+- description
+- description
 
-<img src="assets/ITO_watertest.png" width="220"><img src="assets/thermocam_watertest.png" width="220">
+<img src="assets/ITO_watertest.png" width="230"> <img src="assets/thermocam_watertest.png" width="220">
