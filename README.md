@@ -44,7 +44,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 
 <img src="assets/IGEN230_Capstone/ITO_testing_alligatorclips.png" width="151"><img src="assets/IGEN230_Capstone/ITO_testing_coppertape.png" width="166"><img src="assets/IGEN230_Capstone/ITO_testing_solder.png" width="176">
 
-<img src="assets/IGEN230_Capstone/thermocam_coldenv.png" width="248"><img src="assets/IGEN230_Capstone/thermocam_warmenv.png" width="247">
+<img src="assets/IGEN230_Capstone/thermocam_coldenv.png" width="245"><img src="assets/IGEN230_Capstone/thermocam_warmenv.png" width="244">
 
 #### Waterproof Material Testing
 - description
