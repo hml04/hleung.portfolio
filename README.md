@@ -2,11 +2,11 @@
 
 Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 - Present)
 #### Navigation - IMU Sensor Development
-- description
-- description
-  
- <img src="assets/UBCSailbot_IMU/imu_arduino+stm_comparison.png" width="450">
+- programmed and tested code through I2C peripheral using an oscilloscope, Arduino Uno Rev3 and STM32 U757
+- programmed code for proper calibration and exception handling (in progress)
+- developed and executed testing procedures for IMU limitations in simulated environments
 
+<img src="assets/UBCSailbot_IMU/imu_arduino+stm_comparison.png" width="450">
 <img src="assets/UBCSailbot_IMU/imu_stm32_connection.png" width="210"> <video width="225" controls>  <source src="assets/UBCSailbot_IMU/imu_eulerdata_printing.mp4" type="video/mp4"> </video>
 
 #### Manufacturing Polaris (Our New Sailboat!)
@@ -29,7 +29,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - Designed and modelled the parts and assembly for the attachment to the camera
 - Made to be user friendly, with a sliding cover for privacy
 
-<img src="assets/IGEN330_Capstone/cameracover_assembly.png" width="200">
+<img src="assets/IGEN330_Capstone/cameracover_assembly.png" width="500">
 <img src="assets/IGEN330_Capstone/cameracover_base.png" width="250"><img src="assets/IGEN330_Capstone/cameracover_slider.png" width="250">
 
 #### Mirror Frame
@@ -38,7 +38,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - Front and middle panel provide an extruded edge for the mirror to sit on top
 - Stand designed for internal wiring and allocated storage 
 
-<img src="assets/IGEN330_Capstone/mirrorframe_assembly.png" width="220">
+<img src="assets/IGEN330_Capstone/mirrorframe_assembly.png" width="220">      
 <img src="assets/IGEN330_Capstone/mirrorframe_inlay.png" width="220"><img src="assets/IGEN330_Capstone/mirrorframe_stand.png" width="220"> 
 
 <h2 style="color:#4682B4;"> IGEN 230 Capstone Project </h2>
