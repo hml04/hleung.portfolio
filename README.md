@@ -5,7 +5,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - description
 - description
   
- <img src="assets/UBCSailbot_IMU/imu_arduino+stm_comparison.png" width="400">
+ <img src="assets/UBCSailbot_IMU/imu_arduino+stm_comparison.png" width="450">
 
 <img src="assets/UBCSailbot_IMU/imu_stm32_connection.png" width="210"> <video width="225" controls>  <source src="assets/UBCSailbot_IMU/imu_eulerdata_printing.mp4" type="video/mp4"> </video>
 
@@ -44,7 +44,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - Led standardized testing to determine the best material to be used for the heating element of the goggles
 <img src="assets/IGEN230_Capstone/ITO_reference_diagram.png" width="450">
 
-<img src="assets/IGEN230_Capstone/ITO_testing_alligatorclips.png" width="169"><img src="assets/IGEN230_Capstone/ITO_testing_coppertape.png" width="185"><img src="assets/IGEN230_Capstone/ITO_testing_solder.png" width="184">
+<img src="assets/IGEN230_Capstone/ITO_testing_alligatorclips.png" width="164"><img src="assets/IGEN230_Capstone/ITO_testing_coppertape.png" width="180"><img src="assets/IGEN230_Capstone/ITO_testing_solder.png" width="179">
 
 <img src="assets/IGEN230_Capstone/thermocam_coldenv.png" width="250"><img src="assets/IGEN230_Capstone/thermocam_warmenv.png" width="250">
 
