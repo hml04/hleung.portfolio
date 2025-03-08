@@ -7,7 +7,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
   
  <img src="assets/imu_arduino+stm_comparison.png" width="400">
 
-<img src="assets/imu_stm32_connection.png" width="210"> <video width="210" controls>  <source src="assets/imu_eulerdata_printing_updated.mp4" type="video/mp4"> </video>
+<img src="assets/imu_stm32_connection.png" width="210"> <video width="220" controls>  <source src="assets/imu_eulerdata_printing_updated.mp4" type="video/mp4"> </video>
 
 #### Manufacturing Polaris (Our New Sailboat!)
 - While I am on the Electrical team, there are many opportunities to integrate with other teams and work on other project elements such as manufacturing
@@ -15,7 +15,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
   - Sized and oriented carbon fibre sheets
   - Prepared and applied structural and non-structural epoxy
 
-<img src="assets/carbon_fibre_layup.jpg" width="240"> <video width="240" controls> <source src="assets/carbon_fibre_timelapse.mp4" type="video/mp4"> </video>
+<img src="assets/carbon_fibre_layup.jpg" width="220"> <video width="260" controls> <source src="assets/carbon_fibre_timelapse.mp4" type="video/mp4"> </video>
 
 
 <br/>
@@ -48,7 +48,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 
 [Arduino Code](/assets/code_track34.txt)
 
-<img src="assets/linefollowingrobot-blkdiagram.png" width="220">
+<img src="assets/linefollowingrobot-blkdiagram.png" width="250">
 
 
 <br/>
@@ -64,7 +64,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - Led standardized testing to determine the best material to be used for the heating element of the goggles
 <img src="assets/ITO_reference_diagram.png" width="450">
 
-<img src="assets/ITO_testing_alligatorclips.png" width="180"><img src="assets/ITO_testing_coppertape.png" width="190"><img src="assets/ITO_testing_solder.png" width="190">
+<img src="assets/ITO_testing_alligatorclips.png" width="175"><img src="assets/ITO_testing_coppertape.png" width="191"><img src="assets/ITO_testing_solder.png" width="190">
 
 <img src="assets/thermocam_coldenv.png" width="250"><img src="assets/thermocam_warmenv.png" width="250">
 
