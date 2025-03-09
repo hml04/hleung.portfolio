@@ -76,8 +76,8 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - Explanation and description of design process and key iterations
 - Demonstration of product
 
-<img src="assets/IGEN230_Capstone/DAID_presentation.jpg" width="250">           
-<img src="assets/IGEN230_Capstone/DAID_groupphoto.jpg" width="180"><img src="assets/IGEN230_Capstone/DAID_booth.jpg" width="180">
+<img src="assets/IGEN230_Capstone/DAID_presentation.jpg" width="200"><img src="assets/IGEN230_Capstone/DAID_groupphoto.jpg" width="200">     
+<img src="assets/IGEN230_Capstone/DAID_booth.jpg" width="260">
 
 <br/>
 <br/>
