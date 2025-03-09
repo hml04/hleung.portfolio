@@ -70,6 +70,15 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - Led standardized testing to determine the effect of water on the heating element of the goggles
 
 <img src="assets/IGEN230_Capstone/ITO_watertest.png" width="242"><img src="assets/IGEN230_Capstone/thermocam_watertest.png" width="225">
+
+#### Design and Innovation Day (DAID)
+- Showcased capstone projects to the general public
+- Explanation and description of design process and key iterations
+- Demonstration of product
+
+<img src="assets/IGEN230_Capstone/DAID_presentation.png" width="250">
+<img src="assets/IGEN230_Capstone/DAID_groupphoto.png" width="200"><img src="assets/IGEN230_Capstone/DAID_booth.png" width="200">
+
 <br/>
 <br/>
  
