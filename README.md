@@ -74,7 +74,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
  
 <h2 style="color:#4682B4;"> IGEN 230 Line Following Robot Project </h2>
 
-#### Circuitry
+#### Project Description
 - Designed and constructed the mehcanical structure necessary for a line-following robot
 - Constructed the electrical circuit connecting power, photo-transistors, H-bridge and motors
 - Implemented H-Bridge Board 
