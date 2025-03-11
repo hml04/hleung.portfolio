@@ -30,7 +30,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 
 #### Camera Safety Module
 - Designed and modelled the parts and assembly for the cover of the camera
-- Made to be user friendly, with a sliding cover for privacy
+- Made to be user friendly with a sliding cover for privacy
 
 <img src="assets/IGEN330_Capstone/cameracover_assembly.png" width="300">           
 <img src="assets/IGEN330_Capstone/cameracover_base.png" width="190"><img src="assets/IGEN330_Capstone/cameracover_slider.png" width="150">
