@@ -28,12 +28,13 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - Designing an AI Mirror which recommends the user an outfit based on weather and occasion
 - in-progress project
 
-#### Camera Attachment
-- Designed and modelled the parts and assembly for the attachment to the camera
+#### Camera Safety Module
+- Designed and modelled the parts and assembly for the cover of the camera
 - Made to be user friendly, with a sliding cover for privacy
 
 <img src="assets/IGEN330_Capstone/cameracover_assembly.png" width="300">           
 <img src="assets/IGEN330_Capstone/cameracover_base.png" width="190"><img src="assets/IGEN330_Capstone/cameracover_slider.png" width="150">
+<video width="300" controls><source src="assets/IGEN330_Capstone/cameracover_prototype.mp4" type="video/mp4"></video> 
 
 #### Mirror Frame
 - Designed and modelled the parts and assembly for the mirror frame
