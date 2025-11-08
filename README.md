@@ -64,9 +64,9 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - Woodworking sessions to build main frame, back support and stand
 - Utilized milter saw, band saw, drill press, pocket hole, belt sander, palm sander, chisel, drill
 
-<img src="assets/IGEN330_Capstone/manufacturing_bandsaw.png" width="220"><img src="assets/IGEN330_Capstone/manufacturing_drillpress.png" width="220">     
-<img src="assets/IGEN330_Capstone/manufacturing_sanding.png" width="220"><img src="assets/IGEN330_Capstone/manufacturing_assembly.png" width="220"> 
-<img src="assets/IGEN330_Capstone/mirrorframe_frontview.png" width="220"><img src="assets/IGEN330_Capstone/mirrorframe_backview.png" width="220"> 
+<img src="assets/IGEN330_Capstone/manufacturing_bandsaw.jpg" width="220"><img src="assets/IGEN330_Capstone/manufacturing_drillpress.jpg" width="220">     
+<img src="assets/IGEN330_Capstone/manufacturing_sanding.jpg" width="220"><img src="assets/IGEN330_Capstone/manufacturing_assembly.jpg" width="220"> 
+<img src="assets/IGEN330_Capstone/mirrorframe_frontview.jpg" width="220"><img src="assets/IGEN330_Capstone/mirrorframe_backview.jpg" width="220"> 
 
 <br>
 
@@ -75,7 +75,7 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - Explanation and description of design process and key iterations
 - Demonstration of product
 
-<img src="assets/IGEN330_Capstone/DAID_teamphoto.png" width="220"> 
+<img src="assets/IGEN330_Capstone/DAID_teamphoto.jpg" width="220"> 
 
 <br/>
 <br/>
