@@ -6,7 +6,6 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 - programmed and tested code through I2C peripheral using an oscilloscope, Arduino Uno Rev3 and STM32 U575
 - programmed code for proper calibration and exception handling 
 - developed and executed testing procedures for IMU limitations in simulated environments
-- in-progress project
 
 <img src="assets/UBCSailbot_IMU/imu_arduino+stm_comparison.png" width="450">
 <img src="assets/UBCSailbot_IMU/imu_stm32_connection.png" width="210"> <video width="225" controls>  <source src="assets/UBCSailbot_IMU/imu_eulerdata_printing.mp4" type="video/mp4"> </video>
@@ -29,7 +28,6 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 
 #### Project Description
 - Designing an AI Mirror which recommends the user an outfit based on weather and occasion
-- in-progress project
 
 <br/>
 
@@ -43,6 +41,14 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 
 <br/>
 
+#### Microcontroller Housing
+- Designed and modelled the parts for the housing of the jetson microcontroller
+- Made-to-fit with access to cable connection
+
+<img src="assets/IGEN330_Capstone/jetson_housing.png" width="300">                          
+
+<br/>
+
 #### Mirror Frame
 - Designed and modelled the parts and assembly for the mirror frame
 - Suited for woodworking; composed of four layers (front panel, middle panel, supports, back panel) + stand
@@ -51,6 +57,25 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 
 <img src="assets/IGEN330_Capstone/mirrorframe_assembly.png" width="220">      
 <img src="assets/IGEN330_Capstone/mirrorframe_inlay.png" width="240"><img src="assets/IGEN330_Capstone/mirrorframe_stand.png" width="180"> 
+
+<br>
+
+#### Manufacturing
+- Woodworking sessions to build main frame, back support and stand
+- Utilized milter saw, band saw, drill press, pocket hole, belt sander, palm sander, chisel, drill
+
+<img src="assets/IGEN330_Capstone/manufacturing_bandsaw.png" width="220"><img src="assets/IGEN330_Capstone/manufacturing_drillpress.png" width="220">     
+<img src="assets/IGEN330_Capstone/manufacturing_sanding.png" width="220"><img src="assets/IGEN330_Capstone/manufacturing_assembly.png" width="220"> 
+<img src="assets/IGEN330_Capstone/mirrorframe_frontview.png" width="220"><img src="assets/IGEN330_Capstone/mirrorframe_backview.png" width="220"> 
+
+<br>
+
+#### Design and Innovation Day (DAID)
+- Showcased capstone projects to the general public
+- Explanation and description of design process and key iterations
+- Demonstration of product
+
+<img src="assets/IGEN330_Capstone/DAID_teamphoto.png" width="220"> 
 
 <br/>
 <br/>
