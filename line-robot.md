@@ -3,7 +3,7 @@ layout: default
 title: IGEN 230 Line Following Robot Project
 ---
 
-[← All projects](README.html)
+[← All projects](./)
 
 <h2 style="color:#4682B4;"> IGEN 230 Line Following Robot Project </h2>
 
@@ -25,4 +25,4 @@ title: IGEN 230 Line Following Robot Project
 
 <br/>
 
-[← Previous: Self-Heating Ski Goggles](ski-goggles.html) | [Back to all projects →](README.html)
+[← Previous: Self-Heating Ski Goggles](ski-goggles) | [Back to all projects →](./)

@@ -3,7 +3,7 @@ layout: default
 title: IGEN 330 Capstone Project
 ---
 
-[← All projects](README.html)
+[← All projects](./)
 
 <h2 style="color:#4682B4;"> IGEN 330 Capstone Project </h2>
 
@@ -60,4 +60,4 @@ title: IGEN 330 Capstone Project
 
 <br/>
 
-[← Previous: UBC Sailbot](sailbot.html) | [Next: Self-Heating Ski Goggles →](ski-goggles.html)
+[← Previous: UBC Sailbot](sailbot) | [Next: Self-Heating Ski Goggles →](ski-goggles)

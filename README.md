@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Heidi Leung
+permalink: /
 ---
 
 <h2 style="color:#4682B4;"> About </h2>

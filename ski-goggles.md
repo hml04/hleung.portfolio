@@ -3,7 +3,7 @@ layout: default
 title: IGEN 230 Capstone Project
 ---
 
-[← All projects](README.html)
+[← All projects](./)
 
 <h2 style="color:#4682B4;"> IGEN 230 Capstone Project </h2>
 
@@ -47,4 +47,4 @@ title: IGEN 230 Capstone Project
 
 <br/>
 
-[← Previous: AI Smart Mirror](ai-mirror.html) | [Next: Line-Following Robot →](line-robot.html)
+[← Previous: AI Smart Mirror](ai-mirror) | [Next: Line-Following Robot →](line-robot)
