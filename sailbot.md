@@ -3,7 +3,7 @@ layout: default
 title: UBC Sailbot - Electrical Team
 ---
 
-[← All projects](README.html)
+[← All projects](./)
 
 <h2 style="color:#4682B4;"> UBC Sailbot - Electrical Team </h2>
 
@@ -30,4 +30,4 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 
 <br/>
 
-[← All projects](README.html) | [Next: AI Smart Mirror →](ai-mirror.html)
+[← All projects](./) | [Next: AI Smart Mirror →](ai-mirror)
