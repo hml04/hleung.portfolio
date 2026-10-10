@@ -3,7 +3,7 @@ layout: default
 title: IGEN 230 Capstone Project
 ---
 
-[← All projects](README.md)
+[← All projects](README.html)
 
 <h2 style="color:#4682B4;"> IGEN 230 Capstone Project </h2>
 
