@@ -1,4 +1,59 @@
-<h2 style="color:#4682B4;"> UBC Sailbot - Electrical Team </h2>
+---
+layout: default
+title: Heidi Leung
+---
+
+<h2 style="color:#4682B4;"> About </h2>
+
+I'm a fourth-year Integrated Engineering student at the University of British Columbia, specializing in mechanical and electrical engineering. I enjoy projects where hardware, software and manufacturing meet, from writing and testing firmware to designing and building the parts in the shop.
+
+I'm looking for a 4 to 12 month co-op term starting January 2027.
+
+**Skills:** SolidWorks, Fusion 360, GD&T, 3D printing, woodworking, Arduino, STM32, Jetson, I2C, Altium Designer, MATLAB, Power BI
+
+<br/>
+
+<h2 style="color:#4682B4;"> Projects </h2>
+
+<img src="assets/UBCSailbot_IMU/imu_arduino+stm_comparison.png" width="260">
+
+#### [UBC Sailbot: IMU Heading Sensor](sailbot.html)
+Firmware and testing for the sensor that gives an autonomous sailboat its heading, plus carbon fibre manufacturing for the new boat.
+*Arduino, STM32, I2C, oscilloscope, composites*
+
+<br/>
+
+<img src="assets/IGEN330_Capstone/mirrorframe_assembly.png" width="200">
+
+#### [IGEN 330 Capstone: AI Smart Mirror](ai-mirror.html)
+A mirror that recommends outfits based on weather and occasion. I designed the camera cover, Jetson housing and wooden frame, and built the frame.
+*SolidWorks, 3D printing, woodworking, Jetson*
+
+<br/>
+
+<img src="assets/IGEN230_Capstone/thermocam_coldenv.png" width="260">
+
+#### [IGEN 230 Capstone: Self-Heating Ski Goggles](ski-goggles.html)
+Waterproof, self-heating goggles using ITO, polycarbonate and 3D printed resin. I developed and led the standardized testing of the heating element.
+*ITO, thermal imaging, test design, 3D printing*
+
+<br/>
+
+<img src="assets/IGEN230_LineFollowingRobot/linefollowingrobot-circuitry.png" width="260">
+
+#### [IGEN 230: Line-Following Robot](line-robot.html)
+Mechanical structure, circuitry and Arduino code for a robot that completes tracks with sharp turns, intersections and missing lines.
+*Arduino, H-bridge, PWM, phototransistors*
+
+<br/>
+
+<h2 style="color:#4682B4;"> Contact </h2>
+
+Email: [heidi.leung04@gmail.com](mailto:heidi.leung04@gmail.com)
+GitHub: [hml04](https://github.com/hml04)
+
+
+<!-- <h2 style="color:#4682B4;"> UBC Sailbot - Electrical Team </h2>
 
 Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 - Present)
 #### Navigation - IMU Sensor Development
@@ -148,4 +203,4 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 <br/>
 <br/>
 <br/>
-
+ -->
