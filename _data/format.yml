@@ -1,12 +1,12 @@
-# Project cards on the homepage + project links in the sidebar of project pages.
+ # Project cards on the homepage + project links in the sidebar of project pages.
 #   title       = short name shown in the sidebar
 #   name        = full name shown on the homepage card
 #   description = text shown on the homepage card
 #   url         = the page's file name without ".md" (sailbot.md -> /sailbot)
 # To add a project: copy one block below, change the text, and create its .md page.
 - title: "UBC Sailbot"
-  name: "UBC Sailbot: IMU Heading Sensor"
-  description: "Firmware and testing for the sensor that gives an autonomous sailboat its heading, plus carbon fibre manufacturing for the new boat."
+  name: "UBC Sailbot"
+  description: "Student-led project to build autonomous sailboats. I developed firmware and testing procedures for navigation through IMU and also designed a PCB to support sensor testing for future projects."
   url: /sailbot
 
 - title: "AI Smart Mirror"

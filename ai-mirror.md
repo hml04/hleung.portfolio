@@ -3,8 +3,6 @@ layout: default
 title: IGEN 330 Capstone Project
 ---
 
-[← All projects](./)
-
 <h2 style="color:#4682B4;"> IGEN 330 Capstone Project </h2>
 
 #### Project Description
