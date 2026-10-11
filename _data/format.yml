@@ -1,0 +1,25 @@
+# Project cards on the homepage + project links in the sidebar of project pages.
+#   title       = short name shown in the sidebar
+#   name        = full name shown on the homepage card
+#   description = text shown on the homepage card
+#   url         = the page's file name without ".md" (sailbot.md -> /sailbot)
+# To add a project: copy one block below, change the text, and create its .md page.
+- title: "UBC Sailbot"
+  name: "UBC Sailbot: IMU Heading Sensor"
+  description: "Firmware and testing for the sensor that gives an autonomous sailboat its heading, plus carbon fibre manufacturing for the new boat."
+  url: /sailbot
+
+- title: "AI Smart Mirror"
+  name: "IGEN 330 Capstone: AI Smart Mirror"
+  description: "A mirror that recommends outfits based on weather and occasion. I designed the camera cover, Jetson housing and wooden frame, and built the frame."
+  url: /ai-mirror
+
+- title: "Self-Heating Ski Goggles"
+  name: "IGEN 230 Capstone: Self-Heating Ski Goggles"
+  description: "Waterproof, self-heating goggles using ITO, polycarbonate and 3D printed resin. I developed and led the standardized testing of the heating element."
+  url: /ski-goggles
+
+- title: "Line-Following Robot"
+  name: "IGEN 230: Line-Following Robot"
+  description: "Mechanical structure, circuitry and Arduino code for a robot that completes tracks with sharp turns, intersections and missing lines."
+  url: /line-robot

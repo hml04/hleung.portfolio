@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+    <style>
+      /* Sidebar project list (project pages) */
+      nav.projects { margin: 22px 0 0; }
+      nav.projects .label {
+        font-size: 12px; text-transform: uppercase; letter-spacing: 0.06em;
+        color: #999; margin: 0 0 8px;
+      }
+      nav.projects a {
+        display: block; padding: 6px 0 6px 12px; line-height: 1.3;
+        border-left: 3px solid #e5e5e5; color: #444; font-weight: 400;
+      }
+      nav.projects a:hover { border-left-color: #4682B4; color: #4682B4; text-decoration: none; }
+      nav.projects a.current { border-left-color: #4682B4; color: #4682B4; font-weight: 700; }
+    </style>
+  </head>
+  <body>
+    {% assign current = page.url | remove: ".html" %}
+
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+        <nav class="projects" aria-label="Projects">
+          <p class="label">Projects</p>
+          <a href="{{ "/" | relative_url }}">&larr; Home</a>
+          {% for p in site.data.format %}
+            <a href="{{ p.url | relative_url }}"{% if current == p.url %} class="current" aria-current="page"{% endif %}>{{ p.title }}</a>
+          {% endfor %}
+        </nav>
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <p><small>&copy; {{ site.time | date: "%Y" }} Heidi Leung</small></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
