@@ -46,5 +46,3 @@ title: IGEN 230 Capstone Project
 <img src="assets/IGEN230_Capstone/DAID_booth.jpg" width="280">
 
 <br/>
-
-[← Previous: AI Smart Mirror](ai-mirror) | [Next: Line-Following Robot →](line-robot)

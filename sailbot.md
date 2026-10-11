@@ -29,5 +29,3 @@ Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sept 2024 
 <img src="assets/UBCSailbot_PLRS_Layup/carbon_fibre_layup.jpg" width="220"> <video width="270" controls> <source src="assets/UBCSailbot_PLRS_Layup/carbon_fibre_timelapse.mp4" type="video/mp4"> </video>
 
 <br/>
-
-[← All projects](./) | [Next: AI Smart Mirror →](ai-mirror)

@@ -59,5 +59,3 @@ title: IGEN 330 Capstone Project
 <img src="assets/IGEN330_Capstone/DAID_teamphoto.jpg" width="220"> 
 
 <br/>
-
-[← Previous: UBC Sailbot](sailbot) | [Next: Self-Heating Ski Goggles →](ski-goggles)

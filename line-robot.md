@@ -24,5 +24,3 @@ title: IGEN 230 Line Following Robot Project
 <img src="assets/IGEN230_LineFollowingRobot/linefollowingrobot-blkdiagram.png" width="350">
 
 <br/>
-
-[← Previous: Self-Heating Ski Goggles](ski-goggles) | [Back to all projects →](./)

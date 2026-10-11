@@ -15,4 +15,3 @@ I'm looking for a 4 to 12 month co-op term starting January 2027.
 
 <br/>
 
-<h2 style="color:#4682B4;"> Contact </h2>
