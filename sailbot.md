@@ -7,6 +7,14 @@ title: UBC Sailbot - Electrical Team
 
 Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sep 2024 - Aug 2026)
 
+#### Testing - Developmental PCB Design
+- responsible for displaying boat heading at all times for navigation
+- programmed and tested code through I2C peripheral using an oscilloscope, Arduino Uno Rev3 and STM32 U575
+- programmed code for proper calibration and exception handling 
+- developed and executed testing procedures for IMU limitations in simulated environments
+
+<br/>
+
 #### Navigation - IMU Sensor Development
 - responsible for displaying boat heading at all times for navigation
 - programmed and tested code through I2C peripheral using an oscilloscope, Arduino Uno Rev3 and STM32 U575

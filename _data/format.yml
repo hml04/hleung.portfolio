@@ -4,22 +4,27 @@
 #   description = text shown on the homepage card
 #   url         = the page's file name without ".md" (sailbot.md -> /sailbot)
 # To add a project: copy one block below, change the text, and create its .md page.
-- title: "UBC Sailbot"
-  name: "UBC Sailbot"
-  description: "Student-led project to build autonomous sailboats. I developed firmware and testing procedures for navigation through IMU and also designed a PCB to support sensor testing for future projects."
-  url: /sailbot
+- title: "Kinematic Evaluation System for Hand and Arm"
+  name: "IGEN 430 Capstone: K.E.S.H.A"
+  description: "An ongoing project aiming to design a robotic hand exoskeleton to track progress for hand injuries."
+  url: /kesha
 
 - title: "AI Smart Mirror"
   name: "IGEN 330 Capstone: AI Smart Mirror"
-  description: "A mirror that recommends outfits based on weather and occasion. I designed the camera cover, Jetson housing and wooden frame, and built the frame."
+  description: "A smart mirror that recommends outfits based on weather and occasion. I designed the camera cover, Jetson housing and wooden frame through 3D CAD software and built the frame through wood-working."
   url: /ai-mirror
 
 - title: "Self-Heating Ski Goggles"
   name: "IGEN 230 Capstone: Self-Heating Ski Goggles"
-  description: "Waterproof, self-heating goggles using ITO, polycarbonate and 3D printed resin. I developed and led the standardized testing of the heating element."
+  description: "A waterproof, self-heating attachment for goggles using ITO, polycarbonate and 3D printed resin. I developed and led the standardized testing of the heating element."
   url: /ski-goggles
 
 - title: "Line-Following Robot"
   name: "IGEN 230: Line-Following Robot"
   description: "Mechanical structure, circuitry and Arduino code for a robot that completes tracks with sharp turns, intersections and missing lines."
   url: /line-robot
+
+- title: "UBC Sailbot"
+  name: "UBC Sailbot: Drive Project Team"
+  description: "Student-led project design team to build autonomous sailboats. I developed firmware and testing procedures for navigation through IMU for Polaris. I also designed a PCB to support sensor testing for future projects."
+  url: /sailbot
