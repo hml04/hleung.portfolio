@@ -4,8 +4,13 @@
 #   description = text shown on the homepage card
 #   url         = the page's file name without ".md" (sailbot.md -> /sailbot)
 # To add a project: copy one block below, change the text, and create its .md page.
-- title: "Kinematic Evaluation System for Hand and Arm"
-  name: "IGEN 430 Capstone: K.E.S.H.A"
+- title: "UBC Sailbot"
+  name: "UBC Sailbot: Drive Project Team"
+  description: "A student-led project design team to build autonomous sailboats. I developed firmware and testing procedures for navigation through IMU for Polaris. I also designed a PCB to support sensor testing in future projects."
+  url: /sailbot
+
+- title: "K.E.S.H.A"
+  name: "IGEN 430 Capstone: Kinematic Evaluation System for Hand and Arm"
   description: "An ongoing project aiming to design a robotic hand exoskeleton to track progress for hand injuries."
   url: /kesha
 
@@ -23,8 +28,3 @@
   name: "IGEN 230: Line-Following Robot"
   description: "Mechanical structure, circuitry and Arduino code for a robot that completes tracks with sharp turns, intersections and missing lines."
   url: /line-robot
-
-- title: "UBC Sailbot"
-  name: "UBC Sailbot: Drive Project Team"
-  description: "Student-led project design team to build autonomous sailboats. I developed firmware and testing procedures for navigation through IMU for Polaris. I also designed a PCB to support sensor testing for future projects."
-  url: /sailbot
