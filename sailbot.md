@@ -8,10 +8,10 @@ title: UBC Sailbot - Electrical Team
 Electrical Team Member at [UBC Sailbot](https://www.ubcsailbot.org/) (Sep 2024 - Aug 2026)
 
 #### Testing - Developmental PCB Design
-- responsible for displaying boat heading at all times for navigation
-- programmed and tested code through I2C peripheral using an oscilloscope, Arduino Uno Rev3 and STM32 U575
-- programmed code for proper calibration and exception handling 
-- developed and executed testing procedures for IMU limitations in simulated environments
+- compatible with STM32 U575 NUCLEO board
+- capable of testing commonly used communication protocols (UART, I2C, CAN, NMEA/RS232)
+- includes two stepper motors for testing encoder, position sensors, torque sensors, etc.
+- includes thermistors and ADC breakout pins for temperature testing 
 
 <br/>
 
