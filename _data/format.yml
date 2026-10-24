@@ -2,11 +2,11 @@
 #   title       = short name shown in the sidebar
 #   name        = full name shown on the homepage card
 #   description = text shown on the homepage card
-#   url         = the page's file name without ".md" (sailbot.md -> /sailbot)
+#   url         = the markdown page's file name without ".md" 
 # To add a project: copy one block below, change the text, and create its .md page.
 - title: "UBC Sailbot"
   name: "UBC Sailbot: Drive Project Team"
-  description: "A student-led project design team to build autonomous sailboats. I developed firmware and testing procedures for navigation through IMU for Polaris. I also designed a PCB to support sensor testing in future projects."
+  description: "A student-led project design team to build autonomous sailboats. I developed firmware and testing procedures for navigation through an IMU. I also designed a PCB to support sensor testing in future projects."
   url: /sailbot
 
 - title: "K.E.S.H.A"
@@ -16,15 +16,15 @@
 
 - title: "AI Smart Mirror"
   name: "IGEN 330 Capstone: AI Smart Mirror"
-  description: "A smart mirror that recommends outfits based on weather and occasion. I designed the camera cover, Jetson housing and wooden frame through 3D CAD software and built the frame through wood-working."
+  description: "A completed smart mirror that recommends outfits based on weather and occasion. I designed the camera cover, Jetson housing and wooden frame through 3D CAD software and built the frame through wood-working."
   url: /ai-mirror
 
 - title: "Self-Heating Ski Goggles"
   name: "IGEN 230 Capstone: Self-Heating Ski Goggles"
-  description: "A waterproof, self-heating attachment for goggles using ITO, polycarbonate and 3D printed resin. I developed and led the standardized testing of the heating element."
+  description: "A complted waterproof and self-heating attachment for ski/snowboard goggles using ITO, polycarbonate and 3D printed resin. I developed and led the standardized testing of the heating element."
   url: /ski-goggles
 
 - title: "Line-Following Robot"
   name: "IGEN 230: Line-Following Robot"
-  description: "Mechanical structure, circuitry and Arduino code for a robot that completes tracks with sharp turns, intersections and missing lines."
+  description: "Mechanical structure, circuitry and Arduino code for a line-following robot that completes tracks with sharp turns, intersections and missing lines."
   url: /line-robot
