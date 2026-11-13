@@ -16,12 +16,12 @@
 
 - title: "AI Smart Mirror"
   name: "IGEN 330 Capstone: AI Smart Mirror"
-  description: "A completed smart mirror that recommends outfits based on weather and occasion. I designed the camera cover, Jetson housing and wooden frame through 3D CAD software and built the frame through wood-working."
+  description: "A smart mirror that recommends outfits based on weather and occasion."
   url: /ai-mirror
 
 - title: "Self-Heating Ski Goggles"
   name: "IGEN 230 Capstone: Self-Heating Ski Goggles"
-  description: "A complted waterproof and self-heating attachment for ski/snowboard goggles using ITO, polycarbonate and 3D printed resin. I developed and led the standardized testing of the heating element."
+  description: "A waterproof and self-heating attachment for ski/snowboard goggles using ITO, polycarbonate and 3D printed resin."
   url: /ski-goggles
 
 - title: "Line-Following Robot"
