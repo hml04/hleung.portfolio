@@ -15,8 +15,8 @@ title: IGEN 230 Capstone Project
 - Added a potentiometer-based reference voltage so the heating threshold can be adjusted, and an MCP1700 regulator to provide a stable 3.3 V reference from a 9 V battery
 - Built and tested circuit on a breadboard
 
-<img src="assets/IGEN230_Capstone/closed-loop-circuit_diagram.png" width="275">         
-<img src="assets/IGEN230_Capstone/closed-loop-circuit_breadboard.png" width="275">
+<img src="assets/IGEN230_Capstone/closed-loop-circuit_diagram.png" width="220">         
+<img src="assets/IGEN230_Capstone/closed-loop-circuit_breadboard.png" width="220">
 
 <br/>
 
