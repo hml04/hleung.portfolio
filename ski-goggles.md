@@ -6,7 +6,7 @@ title: IGEN 230 Capstone Project
 <h2 style="color:#4682B4;"> IGEN 230 Capstone Project </h2>
 
 #### Project Description
-- Designed self heating and waterproof ski goggles using ITO, polycarbonate, and 3D printed resin
+- Designed a self heating and waterproof ski goggle attachment using ITO, polycarbonate, and 3D printed resin
 
 <br/>
 
@@ -15,8 +15,8 @@ title: IGEN 230 Capstone Project
 - Added a potentiometer-based reference voltage so the heating threshold can be adjusted, and an MCP1700 regulator to provide a stable 3.3 V reference from a 9 V battery
 - Built and tested circuit on a breadboard
 
-<img src="assets/IGEN230_Capstone/closed-loop-circuit_diagram.png" width="350">         
-<img src="assets/IGEN230_Capstone/closed-loop-circuit_breadboard.png" width="350">
+<img src="assets/IGEN230_Capstone/closed-loop-circuit_diagram.png" width="275">         
+<img src="assets/IGEN230_Capstone/closed-loop-circuit_breadboard.png" width="275">
 
 <br/>
 
