@@ -10,6 +10,16 @@ title: IGEN 230 Capstone Project
 
 <br/>
 
+#### Electronic Design
+- Designed a closed-loop thermal control circuit using an LM35 temperature sensor, an LM393 comparator and a MOSFET to switch power to the ITO heating film based on measured ambient temperature
+- Added a potentiometer-based reference voltage so the heating threshold can be adjusted, and an MCP1700 regulator to provide a stable 3.3 V reference from a 9 V battery
+- Built and tested circuit on a breadboard
+
+<img src="assets/IGEN230_Capstone/closed-loop-circuit_diagram.png" width="350">         
+<img src="assets/IGEN230_Capstone/closed-loop-circuit_breadboard.png" width="350">
+
+<br/>
+
 #### Heat Element Testing
 - Developed testing method 
 - Led standardized testing to determine the best ratio of material to be used for the heating element of the goggles
